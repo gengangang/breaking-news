@@ -42,3 +42,7 @@
     height: 100%;
     width: 100%;
 }
+
+.layui-footer {
+    text-align: center;
+}
